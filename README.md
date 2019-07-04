@@ -1,3 +1,4 @@
 # hello-world
 
-Hi! Its your first commit.
+Hi! Its your first commit. 
+Finished.
